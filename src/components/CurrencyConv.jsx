@@ -62,7 +62,7 @@ function CurrencyConverter() {
 
   return (
     <>
-      <div className="mx-auto space-y-5 bg-gray-400 py-5 px-16">
+      <div className="mx-auto space-y-5 bg-gray-400 py-5 px-4 md:px-16 ">
         <h3 className="text-3xl font-bold text-center">Currency Convertor</h3>
         <label className="flex flex-col text-lg text-start">
           Source Currency
